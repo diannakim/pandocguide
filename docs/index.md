@@ -1,0 +1,4 @@
+- [How to Install Pandoc](install.md)
+- [How to Change the Command Prompt Directory](convert.md)
+- [How to Convert a Word Document into a Markdown File](convertt.md)
+- [BONUS: How to Convert a Markdown File into a Word Document](markword.md)
