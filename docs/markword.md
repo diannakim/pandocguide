@@ -16,7 +16,7 @@ Not only can you convert a Word document into a Markdown file using Pandoc, but 
 
 3. **Drag** or **type** the folder containing the Word document you want to convert to a Markdown file into the command prompt. 
 
-4. **Press** enter. You have now changed the directory of your command prompt to the folder with your Markdwon file! (Refer to Figure 1)
+4. **Press** enter. You have now changed the directory of your command prompt to the folder with your Markdown file! (Refer to Figure 1)
 
     ![Photo 7](images/photo7.png)
   
