@@ -12,7 +12,8 @@
 
 1. **Type** the following text into the command prompt (Refer to Figure 1).
     
-    > pandoc -s nameofworddoc.docx -t markdown --extract-media=images -o nameofworddoc.md
+    > pandoc -s nameofworddoc.docx -t markdown \-\-extract-media=images -o nameofworddoc.md
+
     > HELPFUL TIP: You must type the name of the Word document exactly the way it is named. If the name of your Word document is overly long,rename the .md file into a shorter word, as seen in Figure 1. 
 
 2. **Press** enter.
