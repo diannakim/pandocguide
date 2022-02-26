@@ -17,7 +17,7 @@
 
 2. **Press** enter.
 
-  ![Photo 5](images/photo5.png)
+    ![Photo 5](images/photo5.png)
   
   *Figure 1: The text that you must type into the command prompt in Step 1 is shown here. Note that the name of the .md file is short and simple.*
 
@@ -25,7 +25,7 @@
 
 4. **Verify** that you see an .md file of your Word document and an images folder, if your Word document has images (Refer to Figure 2).
 
-  ![Photo 6](images/photo6.png)
+    ![Photo 6](images/photo6.png)
   
   *Figure 2: The .md file and images folder of the converted Word document is shown here.*
 

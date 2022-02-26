@@ -14,11 +14,11 @@
 
 2. **Type** "pandoc.org/installing.html" into the address bar. 
 
-3. **Click** the blue "Download the latest installer for Windows (64-bit) button under the "Installing pandoc" section (Refer to Figure 1)
+3. **Click** the blue "Download the latest installer for Windows (64-bit) button under the "Installing pandoc" section (Refer to Figure 1).
 
     > **NOTE:** Download the correct installer according to your operating system. 
 
-  ![Photo 1](images/photo1.png)
+    ![Photo 1](images/photo1.png)
 
   *Figure 1: The Pandoc install page. The blue button is also shown here.*
 
@@ -28,7 +28,7 @@
 
 5. **Click** the "Command Prompt" app to open the Command Prompt window (Refer to Figure 2). 
 
-  ![Photo 2](images/photo2.png)
+    ![Photo 2](images/photo2.png)
 
   *Figure 2: The Command Prompt app.*
 
@@ -38,7 +38,7 @@
 
 7. **Press** enter. You should see a message telling you which version of Pandoc has been installed and other information (Refer to Figure 3). 
 
-  ![Photo 3](images/photo3.png)
+    ![Photo 3](images/photo3.png)
   
   *Figure 3: The text that you must type to verify that Pandoc has successfully been installed. The Pandoc version message is also shown here.*
 
