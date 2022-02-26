@@ -18,7 +18,7 @@
 
 4. **Press** enter. You have now changed the directory to the folder with your Word document! (Refer to Figure 1)
 
-![Photo 4](images/photo4.png)
+  ![Photo 4](images/photo4.png)
   
   *Figure 1: The text (cd nameoffolder) that you must type to change the directory of your command prompt is shown here.*
 
